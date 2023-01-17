@@ -13,7 +13,7 @@ Hey! I'm currently still in school, working on class projects or things that wil
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ibratcher)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=ibratcher&) 
+![GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=ibratcher&repo=ibratcher) 
 
 ![GitHub metrics](https://metrics.lecoq.io/ibratcher)  
 
