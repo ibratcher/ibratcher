@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 Hey! I'm currently still in school, working on class projects or things that will help me improve. I'm always looking for chances to grow my portfolio and gain experience!
 
