@@ -11,7 +11,8 @@ Hey! I'm currently still in school, working on class projects or things that wil
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ibratcher)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=ibratcher&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=ibratcher&theme=react&line_height=40&hide=css"/> </a>
 
