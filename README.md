@@ -13,7 +13,7 @@ Hey! I'm currently still in school, working on class projects or things that wil
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ibratcher)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ibratcher&theme=react&line_height=40&hide=css"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=ibratcher&theme=react&line_height=40&hide=css"/> </a>
 
 ![GitHub metrics](https://metrics.lecoq.io/ibratcher)  
 
